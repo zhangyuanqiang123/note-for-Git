@@ -1,4 +1,0 @@
-git is a distributed version control sysytem 
-git is free software distrubuted under the GPL
-git reset to ee7e--commit id
-
